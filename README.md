@@ -1,4 +1,4 @@
- Hi, i'm @tolubass
+ Hi, i'm @Tolulope Kehinde Olowolaju
 i'm interested in Data and Research Analytics
 I currently use python to complement SQL with R.
 I also make use of jupyter notebook and power bi 
