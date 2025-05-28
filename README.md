@@ -1,14 +1,1 @@
- Hi, My name is Tolulope Kehinde Olowolaju
-i'm interested in Data and Research Analytics
-I currently use python to complement SQL with R.
-I am also versed in Excel and power bi 
-for my data visualization.
-
-I'm looking to collaborate on projects
-that would help me improve my skills 
-and experiences
-- 📫 How to reach me:
-twitter:@Tolulopekehind7
-Email: tolajolowolaju81@gmail.com
-linkedin: https://wwww.linkedin.com/in/tolulope-olowolaju-410a09228
-
+I'm Tolulope Kehinde Olowolaju, a distinguished professional in Artificial Intelligence and Social Informatics, specializing in Data Analytics and leveraging cutting-edge technologies to drive business growth. With expertise in Python, machine learning, and data visualization tools such as Power BI, complemented by proficiency in SQL, R, and Excel, I deliver data-driven insights that inform strategic decision-making. Driven by a passion for innovation and collaboration, I seek opportunities to apply my skills in pioneering projects that advance the frontiers of AI and data science, fostering growth, innovation, and excellence.
